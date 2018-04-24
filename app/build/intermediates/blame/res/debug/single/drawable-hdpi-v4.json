@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vfr.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\vfr.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ifr.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\ifr.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\knmi.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\knmi.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tower.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\tower.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\webcam.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\webcam.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nvfr.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\nvfr.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reload.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "C:\\Users\\ap\\Dropbox\\Apps\\METAR\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    }
+]

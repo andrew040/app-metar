@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ap\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_d8eddcce1c22a43580713a07ac03af06519a6200\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1e6ddcb929fa3dc1012264f266dc6c9add0757b8">
+        <dex dex="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_83ed8acd07aad13c8c97e89530c9a1a2b6ca8e32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3fc97c0de9f7c4571a5fbddc590dfe849569196b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_67316807918947691f8d3bca8cae7769061bf6ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35aba86e3e10234569974d156c313f2f1ed2a5ae">
+        <dex dex="C:\Users\ap\Dropbox\Apps\METAR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4a5ca33cdd8b7f302e6ed5912cc997d70576569e\classes.dex" />
+    </item>
+
+</items>
